@@ -38,4 +38,10 @@ const monitoring = require("seeandreport");
 
 monitoring("https://www.google.com", 1);
 ```
+
+### The timer 
+```javascript
+monitoring("https://www.google.com", 1); // 1 = 1 second
+```
+
 > Made with ❤ by @Unknown User
