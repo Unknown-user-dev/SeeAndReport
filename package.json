@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "request": "^2.88.2",
+    "winston": "^3.8.2"
+  },
+  "name": "seeandreport",
+  "version": "1.0.0",
+  "description": "A module for monitoring an url (Down or Up)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unknown-user-dev/SeeAndReport.git"
+  },
+  "keywords": [
+    "monitoring"
+  ],
+  "author": "unknownuser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unknown-user-dev/SeeAndReport/issues"
+  },
+  "homepage": "https://github.com/Unknown-user-dev/SeeAndReport#readme"
+}
